@@ -1,3 +1,6 @@
+# NOTE
+The code for Gold Bazar is not shared in this repository because of NDA restrictions
+
 # Gold-Bazar
 Gold bazar is a GUI application made using java swing for businesses that buy and sell gold. It helps in keeping track of transactions and the daily rate of gold. It also helps in the management of gold inventory. Gold bazar also has reporting and printing functionalities. 
 
