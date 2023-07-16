@@ -1,4 +1,4 @@
-![DailyUpdates](https://github.com/AR-LABS-CPP/Gold-Bazar/assets/70814565/464960ae-c515-45e8-b6d5-a3615194a52b)# NOTE
+# NOTE
 The code for Gold Bazar is not shared in this repository because of NDA restrictions
 
 # Gold-Bazar
