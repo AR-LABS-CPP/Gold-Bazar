@@ -30,5 +30,8 @@ This was the project that I made during my internship as a Java developer. The b
 ### Sale Register Screen
 ![Sale Register Screen](https://github.com/AR-LABS-CPP/Gold-Bazar/assets/70814565/556aef67-b2d9-4eab-bd9d-381a84af9489)
 
+### ERD (Entity Relationship Diagram)
+![Jewellery System ERD](https://github.com/AR-LABS-CPP/Gold-Bazar/assets/70814565/34ca8698-274f-41ef-a76d-1e1db3407abc)
+
 ### Note:
 Look and feel of some screens may differ because the screenshots were taken inside NetBeans designer
